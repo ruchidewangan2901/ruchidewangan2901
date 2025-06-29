@@ -2,7 +2,7 @@
 
 <!--
 **ruchidewangan2901/ruchidewangan2901** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+-->
 👋 Hi, I'm Ruchi Dewangan!
 
 Welcome to my GitHub profile! I'm a passionate student from NIT Raipur, currently in my 7th semester of B.Tech. My journey in tech is driven by curiosity, creativity, and a love for problem-solving.
@@ -68,4 +68,4 @@ Thanks for visiting my profile! Feel free to check out my repositories and conne
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
