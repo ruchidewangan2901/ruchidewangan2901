@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm a passionate student from NIT Raipur, currentl
 
 ---
 
-### 🌟 About Me
+ 🌟 About Me
 
 - 🎓 **Education:**  
   B.Tech, 7th Semester  
