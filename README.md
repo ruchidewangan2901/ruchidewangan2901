@@ -52,7 +52,7 @@ Welcome to my GitHub profile! I'm a passionate student from NIT Raipur, currentl
 
 ### 📫 Let's Connect!
 
-- **LinkedIn:** [https://www.linkedin.com/in/ruchi-dewangan/?originalSubdomain=in](#)  
+- **LinkedIn:** [Linkedin](https://www.linkedin.com/in/ruchi-dewangan-9298ab364/)  
 - **Email:** [ruchidewangan2901@gmail.com]  
 
 ---
